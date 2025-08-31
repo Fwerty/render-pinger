@@ -1,0 +1,9 @@
+name = "render-pinger"
+main = "index.js"
+compatibility_date = "2025-06-07"
+
+[triggers]
+crons = ["*/14 * * * *"]
+
+[vars]
+BACKEND_URL = "https://sosyalkutuphane.online/yazilimci_minikler"
