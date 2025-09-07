@@ -1,0 +1,7 @@
+render.com üzerindeki sunucumuz (pc deki merhaba-backend klasörü)
+
+uyku moduna geçiyor çalışmazsa
+
+bunu engelleyen cloudflare üzerindeki workflow kodları , bu kodlar git e bağlanmış vaziyette
+
+clouflare bunu github dan çekiyor , bu kodlar 14 dakikada bir curl request atıyor ve sunucunun uylu moduna geçmesini engelliyor
