@@ -1,4 +1,4 @@
-name = "render-pinger"
+name = "render-pinger-app"
 main = "index.js"
 compatibility_date = "2025-06-07"
 
