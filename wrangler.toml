@@ -6,4 +6,4 @@ compatibility_date = "2025-06-07"
 crons = ["*/14 * * * *"]
 
 [vars]
-BACKEND_URL = "https://sosyalkutuphane.online/yazilimci_minikler;https://sapka-bar-uyg-repo.onrender.com/"
+BACKEND_URL = ""
